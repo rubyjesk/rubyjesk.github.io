@@ -1,5 +1,5 @@
 # rubyjesk.github.io
-<!DOCTYPE HTML>
+<DOCTYPE HTML>
 <html>
  <head>
      <meta charset="utf-8">
