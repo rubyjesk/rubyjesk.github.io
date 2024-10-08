@@ -47,5 +47,9 @@
         <p>I'm interested in charcoal and graphic design.</p>
     </div>
 
+  <div class="link-container">
+        <p>Check out my inspirations: <a href="https://www.getty.edu/research/special_collections/notable/mapplethorpe_slideshow/slideshow.html" target="_blank">Mapplethorpe's Art</a></p>
+    </div>
+
 </body>
 </html>
