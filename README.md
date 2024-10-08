@@ -1,4 +1,4 @@
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +6,7 @@
     <title>Ruby Jeschke</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Times New Roman', Times, serif;
             margin: 20px;
         }
         h1 {
@@ -29,9 +29,10 @@
 <body>
 
     <h1>Ruby Jeschke</h1>
+    <p><strong>Artist</strong></p>
 
     <div class="description">
-        <p>I'm a sophomore at Occidental College studying Psychology and MAC.</p>
+        <p>A sophomore at Occidental College studying Psychology and MAC.</p>
     </div>
 
     <div class="image-container">
