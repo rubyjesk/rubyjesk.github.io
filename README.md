@@ -35,11 +35,11 @@
     </div>
 
     <div class="image-container">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Frubyjeschke%2F&psig=AOvVaw3LJK4Zs7Mt7jW2wSzoJzSd&ust=1728508307872000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCDlbHZ_4gDFQAAAAAdAAAAABAE.jpg" alt="photo of me" width="400" height="300">
+        <img src="" alt="" width="400" height="300">
     </div>
 
     <div class="link-container">
-        <p>Soccer: <a href="https://sports.deseret.com/high-school/girls-soccer/athlete/ruby-jeschke/296135" target="_blank">Visit Example</a></p>
+        <p>Some of my writing and artwork: <a href="https://www.rowlandhall.org/tesserae/volumes/~board/tesserae/post/2023-volume-18" target="_blank">2023 Rowland Hall Tesserae</a></p>
     </div>
 
     <div class="more-text">
