@@ -31,7 +31,7 @@
     <h1>Ruby Jeschke</h1>
 
     <div class="description">
-        <p>Sophomore at Occidental College studying Psychology and MAC.</p>
+        <p>I'm a sophomore at Occidental College studying Psychology and MAC.</p>
     </div>
 
     <div class="image-container">
@@ -43,7 +43,7 @@
     </div>
 
     <div class="more-text">
-        <p>more text.</p>
+        <p>I'm interested in charcoal and graphic design.</p>
     </div>
 
 </body>
