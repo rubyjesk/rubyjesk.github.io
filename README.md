@@ -35,7 +35,7 @@
     </div>
 
     <div class="image-container">
-        <img src="file:///Users/rubyjeschke/Downloads/Screenshot%202024-10-08%20at%202.16.48%20PM/Screenshot%202024-10-08%20at%202.16.48%20PM.html" alt="" width="400" height="300">
+        <img src="https://ibb.co/Qd8BWCt.jpg" alt="" width="400" height="300">
     </div>
 
     <div class="link-container">
