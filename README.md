@@ -35,7 +35,7 @@
     </div>
 
     <div class="image-container">
-        <img src="https://ibb.co/Qd8BWCt.jpg" alt="" width="400" height="300">
+        <img src="https://assets.isu.pub/document-structure/230605195111-8bf64481ff90a4ccb22205d1677d8399/v1/3d9421e82bbe51fd2231b5cffda286a0.jpeg" alt="" width="400" height="300">
     </div>
 
     <div class="link-container">
