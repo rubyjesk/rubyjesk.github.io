@@ -1,13 +1,51 @@
 # rubyjesk.github.io
-<DOCTYPE HTML>
-<html>
- <head>
-     <meta charset="utf-8">
-     <title>Hello, World!</title>
- </head>
-    <h1>About Me:</h1>
- <body>
-     My name is Ruby Jeschke and I'm a sophomore at Occidental College taking Computer Science.
- </body>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ruby Jeschke</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: purple;
+        }
+        .description {
+            margin: 20px 0;
+        }
+        .image-container {
+            margin: 20px 0;
+        }
+        .link-container {
+            margin: 20px 0;
+        }
+        .more-text {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Ruby Jeschke</h1>
+
+    <div class="description">
+        <p>This is a description about me.</p>
+    </div>
+
+    <div class="image-container">
+        <img src="rubyidmed.jpeg" alt="photo of me" width="400" height="300">
+    </div>
+
+    <div class="link-container">
+        <p>Check out this link: <a href="https://example.com" target="_blank">Visit Example</a></p>
+    </div>
+
+    <div class="more-text">
+        <p>more text.</p>
+    </div>
+
+</body>
 </html>
-<img src="https://cdn.britannica.com/45/5645-050-B9EC0205/head-treasure-flower-disk-flowers-inflorescence-ray.jpg" alt="Flower" width="500" height="300">
